@@ -32,7 +32,7 @@
                 <th>Fare</th>
                 <th>Driver</th>
                 <th>Pass Rtg</th>
-                <th>Drvr Rtg</th>
+                <th>Drvrr Rtg</th>
             </tr>
         <c:forEach items="${employeeList}" var="fare">
             <tr class="table-row">
